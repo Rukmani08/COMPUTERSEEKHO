@@ -1,0 +1,11 @@
+# Backend
+ComputerSeekho_Backend/target/
+ComputerSeekho_Backend/*.log
+
+# Frontend
+ComputerSeekho_Frontend/node_modules/
+ComputerSeekho_Frontend/dist/
+
+# IDE
+.vscode/
+.idea/
