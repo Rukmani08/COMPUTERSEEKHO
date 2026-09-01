@@ -9,3 +9,6 @@ ComputerSeekho_Frontend/dist/
 # IDE
 .vscode/
 .idea/
+computer-seekho-api/src/main/resources/appilication.yml
+computer-seekho-api/src/main/resources/application.properties
+computer-seekho-api/src/main/resources/application.yml
